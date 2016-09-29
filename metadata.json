@@ -9,7 +9,7 @@
   "issues_url": "https://github.com/madelaney/puppet-xcode/issues",
   "dependencies": [
     {"name":"puppetlabs/stdlib","version_requirement":">= 1.0.0"},
-    {"name":"nanliu/staging","version_requirement":">=1.0.3"}
+    {"name":"puppet/staging","version_requirement":">=1.0.3"}
   ],
   "data_provider": null,
   "tags": [
